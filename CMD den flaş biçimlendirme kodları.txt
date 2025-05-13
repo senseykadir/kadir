@@ -1,0 +1,10 @@
+diskpart
+list disk
+select disk 
+clean
+create partition primary
+format fs=ntfs quick 
+assign
+active
+
+format quick fs=fat32
