@@ -1,0 +1,18 @@
+ana sayfa
+g+h
+beğeni
+l
+yanıtla
+r
+sonraki gönderi
+j
+önceki gönderi
+k
+bildirimler
+g+n
+kullanıcıya git
+g+u
+yeni gönderi
+n
+profil
+g+p
